@@ -1,10 +1,4 @@
 class Address:
-    index='000000'
-    city='City_name'
-    street='Street_name'
-    block='Block_name'
-    apartment='Apartment_name'
-
 
     def __init__(self,index,city,street,block,apartment):
         self.index=index
